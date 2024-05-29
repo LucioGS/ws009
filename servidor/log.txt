@@ -1,0 +1,34 @@
+2024-05-12 20:14:49  200 OK
+2024-05-12 20:15:18  200 OK
+2024-05-12 20:15:47  200 OK
+2024-05-12 20:16:45  500 Internal Server Error
+2024-05-12 20:17:32  200 OK
+2024-05-12 20:36:23  200 OK
+2024-05-13 19:49:27  200 OK
+2024-05-13 19:53:27  200 OK
+2024-05-13 19:54:02  200 OK
+2024-05-13 19:57:12  200 OK
+2024-05-13 19:57:13  200 OK
+2024-05-13 19:57:13  200 OK
+2024-05-13 19:57:13  200 OK
+2024-05-13 19:57:13  200 OK
+2024-05-13 19:57:14  200 OK
+2024-05-13 19:57:14  200 OK
+2024-05-13 19:57:27  404 Page not found
+2024-05-13 19:58:13  200 OK
+2024-05-13 20:00:02  SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2024-05-13 20:01:15  200 OK
+2024-05-13 20:20:19  200 OK
+2024-05-13 20:21:15  SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2024-05-21 11:48:41  200 OK
+2024-05-29 11:14:03  SQLSTATE[HY000] [1130] Host 'localhost' is not allowed to connect to this MariaDB server
+2024-05-29 11:14:46  SQLSTATE[HY000] [1130] Host 'localhost' is not allowed to connect to this MariaDB server
+2024-05-29 12:59:39  200 OK
+2024-05-29 12:59:50  200 OK
+2024-05-29 13:00:12  SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2024-05-29 13:00:28  SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2024-05-29 13:00:54  200 OK
+2024-05-29 13:07:51  200 OK
+2024-05-29 13:08:20  SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2024-05-29 13:09:38  200 OK
+2024-05-29 13:10:04  SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
